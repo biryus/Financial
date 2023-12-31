@@ -4,7 +4,7 @@
 MVP (minimum viable product) application, with enough functions to work with Financial .backup on Windows.
 
 ## About
- Desktop version of [Financial](https://github.com/biryu/financial "Financial") which is an open-source personal finance tracker for Android and Desktop platform.
+ Desktop version of [Financial](https://github.com/biryu/Financial "Financial") which is an open-source personal finance tracker for Android and Desktop platform.
 
 ## Supported features
 
